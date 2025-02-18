@@ -1,6 +1,6 @@
-# 🔒 Secure Password Manager
+# 🔒 PassVault, Secure Password Manager
 
-A CLI-based password manager with military-grade encryption written in Rust.
+A CLI-based password manager with military-grade encryption written in Rust for Cybersecurity/Cryptography practice and to learn Rust!
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
