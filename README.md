@@ -1,4 +1,4 @@
-# 🔒 PassVault, a Hardened Password Manager
+# 🔒 PassVault, a Secure Password Manager
 
 A CLI-based password manager with AES-256-GCM encryption written in Rust for Cybersecurity and Cryptography practice and to learn Rust!
 
