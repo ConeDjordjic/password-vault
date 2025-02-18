@@ -1,0 +1,16 @@
+[package]
+name = "passvault"
+version = "1.0.0"
+edition = "2025"
+
+[dependencies]
+aes-gcm = { version = "0.10", features = ["std"] }
+argon2 = "0.5"
+rand = "0.8"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+thiserror = "1.0"
+clap = { version = "4.0", features = ["derive"] }
+rpassword = "7.0"
+hex = "0.4"
+password-hash = "0.5"

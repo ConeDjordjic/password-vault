@@ -1,0 +1,11 @@
+# Rust build artifacts
+/target
+**/*.rs.bk
+Cargo.lock
+
+# Vault file
+vault.enc
+
+# IDE specific
+.vscode/
+.idea/
